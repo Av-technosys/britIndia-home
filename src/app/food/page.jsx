@@ -63,7 +63,7 @@ export default function FoodLandingPage() {
           className="flex flex-col lg:flex-row gap-6 justify-center"
         >
           <Link
-            href="https://your-first-food-website.com"
+            href="https://bollywoodbites.co.uk/"
             className="bg-[#6B4226] text-white hover:bg-[#4A2E1A] transition rounded-full font-medium shadow-md p-4"
             target="_blank"
           >
@@ -80,7 +80,7 @@ export default function FoodLandingPage() {
           </Link>
 
           <Link
-            href="https://your-second-food-website.com"
+            href="https://velentinogelato.co.uk/"
             className="bg-white text-[#6B4226] hover:bg-[#FDF3E7] border border-[#6B4226] transition rounded-full font-medium shadow-md p-4"
             target="_blank"
           >
